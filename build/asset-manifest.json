@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e567e9ff.css",
+    "main.js": "/static/js/main.dcb62b68.js",
+    "static/media/banner.mp4": "/static/media/banner.64c414dcf09736c121ec.mp4",
+    "static/media/FoundationStory.jpg": "/static/media/FoundationStory.c33d7d40c731f0b5e6d7.jpg",
+    "static/media/TimelineImage.jpg": "/static/media/TimelineImage.23ec1006e50dfa7c4f38.jpg",
+    "static/media/Plan_your_lessons.svg": "/static/media/Plan_your_lessons.f123ccf442a2a364a459a7bbec807045.svg",
+    "static/media/Compare_with_others.svg": "/static/media/Compare_with_others.8e950efa990d53f34b35893a1e03cea1.svg",
+    "static/media/bghome.svg": "/static/media/bghome.de04eae287ff1d29f0b1.svg",
+    "static/media/Logo-Full-Light.png": "/static/media/Logo-Full-Light.5ce54e95cbb29ac910ff.png",
+    "static/media/rzp_logo.png": "/static/media/rzp_logo.3381adf4d013c19f2f38.png",
+    "static/media/Know_your_progress.png": "/static/media/Know_your_progress.cf3ea1c51544985430d3.png",
+    "static/media/signup.jpg": "/static/media/signup.5dd618abddb801c71d50.jpg",
+    "static/media/frame.png": "/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/aboutus3.jpg": "/static/media/aboutus3.fa2350dd94d756ea3910.jpg",
+    "static/media/aboutus1.jpg": "/static/media/aboutus1.9c26bb7a8f46ad83ae9e.jpg",
+    "static/media/aboutus2.jpg": "/static/media/aboutus2.59dd40dfd63069f15e44.jpg",
+    "static/media/login.jpg": "/static/media/login.f0ec71541db4bd8aefd3.jpg",
+    "static/media/Instructor.jpg": "/static/media/Instructor.cc5e8f04867703db2294.jpg",
+    "static/media/Logo2.svg": "/static/media/Logo2.2d9e85de9e756cda89ffc4582338c939.svg",
+    "static/media/Logo1.svg": "/static/media/Logo1.73daf51e41d665299fc682bc3cb53878.svg",
+    "static/media/Logo3.svg": "/static/media/Logo3.0a56f78fead602f0d54c55ddcdf7e616.svg",
+    "static/media/Logo4.svg": "/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
+    "index.html": "/index.html",
+    "main.e567e9ff.css.map": "/static/css/main.e567e9ff.css.map",
+    "main.dcb62b68.js.map": "/static/js/main.dcb62b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e567e9ff.css",
+    "static/js/main.dcb62b68.js"
+  ]
+}
